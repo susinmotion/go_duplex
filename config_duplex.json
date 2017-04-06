@@ -1,0 +1,19 @@
+{"input files": [
+"/mnt/brick2/justin/SRR3412599_duplex/SRR3412599_1first1000000.gz"
+],
+"input files reverse":[
+"/mnt/brick2/justin/SRR3412599_duplex/SRR3412599_2first1000000.gz"
+],
+"mode":"duplex",
+"genes":[
+	{"gene": "p53",
+	"barcode length": 12,
+	"forward align": "TGACT",
+	"thresholds": [3],
+	"reference genome": "p53",
+	"sequence length": 83,
+	"cds":[ [110957,11030],[11148,11169],[11279,11557],[12315,12498],[12580,12692],[13261,13370],[13714,13850],[13943,14016],[16836,16942],[17861,17942] ]
+	}
+]
+}	
+
